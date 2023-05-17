@@ -122,14 +122,13 @@ celerybeat.pid
 # Environments
 .env
 .venv
+mlearming/
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
 
-# Ignore virtual environment
-/mlearming/
+# 
 
 # Spyder project settings
 .spyderproject
