@@ -127,7 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-mlearming/
+
+# Ignore virtual environment
+/mlearming/
 
 # Spyder project settings
 .spyderproject
